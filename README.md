@@ -86,7 +86,6 @@ regex2automata/
 │ ├─ dfa.py # NFA to DFA and DFA minimization
 │ └─ visualizer.py # NFA/DFA visualization
 │
-├─ plots/ # Saved plots
 │
 ├─ requirements.txt
 ├─ setup.py
